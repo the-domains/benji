@@ -1,6 +1,6 @@
 name: benji
 favicon: null
-layout_spectrum: 0.9769
+layout_spectrum: 0.55677
 typography_spectrum: 0.99458
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.1875
+  brandStrength: 0.3125
   lightness: 0.125
-  saturation: 0.9375
+  saturation: 0.875
   rhythmicContrast: 0.75
 purpose: []
